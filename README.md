@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Iman Baharudin
 - 👀 I’m interested in Electronics and Programming
-- 🌱 I’m currently learning Visual Basic, C#, C and Python
-- 💞️ I’m not looking to collaborate for now
+- 🌱 I’m currently learning Visual Basic, C# ,C ,C++ and Python
 - 📫 How to reach me contact to muhammadimanbaharudin@gmail.com, if you want asap you can contact me muhammadimanbaharudin@outlook.com
 
 <!---
